@@ -1,0 +1,13 @@
+diff --git a/bin/Car_Manager.class b/bin/Car_Manager.class
+index b2a3040..b7c576e 100644
+Binary files a/bin/Car_Manager.class and b/bin/Car_Manager.class differ
+diff --git a/src/Car_Manager.java b/src/Car_Manager.java
+index 882e3cb..4db3198 100644
+--- a/src/Car_Manager.java
++++ b/src/Car_Manager.java
+@@ -2,4 +2,5 @@
+ public class Car_Manager {
+  public String nom;
+  public String prenom;
++ public int age;
+ }
